@@ -30,7 +30,7 @@ header {
     color: #70aed2;
 }
 
-.nav-active {
+.active {
     color: #70aed2;
 }
 
@@ -121,7 +121,7 @@ header {
 
 .underline {
     width: 150px;
-    border: 3px solid #eee;
+    border: #eee solid;
     margin: auto;
 }
 
